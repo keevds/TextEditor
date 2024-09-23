@@ -1,0 +1,14 @@
+/Users/kevinbarbosa/Dev/Study/TextEditor/bin/Debug/net8.0/TextEditor
+/Users/kevinbarbosa/Dev/Study/TextEditor/bin/Debug/net8.0/TextEditor.deps.json
+/Users/kevinbarbosa/Dev/Study/TextEditor/bin/Debug/net8.0/TextEditor.runtimeconfig.json
+/Users/kevinbarbosa/Dev/Study/TextEditor/bin/Debug/net8.0/TextEditor.dll
+/Users/kevinbarbosa/Dev/Study/TextEditor/bin/Debug/net8.0/TextEditor.pdb
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfoInputs.cache
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/TextEditor.AssemblyInfo.cs
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/TextEditor.csproj.CoreCompileInputs.cache
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/TextEditor.dll
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/refint/TextEditor.dll
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/TextEditor.pdb
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/TextEditor.genruntimeconfig.cache
+/Users/kevinbarbosa/Dev/Study/TextEditor/obj/Debug/net8.0/ref/TextEditor.dll
